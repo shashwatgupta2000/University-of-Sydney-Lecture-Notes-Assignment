@@ -1,5 +1,5 @@
-# University of Sydney Bachelor of Advancing Computing Repository
-Welcome to the repository for the Bachelor of Advancing Computing program at the University of Sydney! This repository contains completed assignments and passed units by students pursuing their Bachelor's degree in Advancing Computing. 
+# University of Sydney, Bachelor of Advanced Computing Personal Notes and Assignments
+Welcome to the repository for the Bachelor of Advanced Computing program at the University of Sydney! This repository contains completed assignments and passed units by students pursuing their Bachelor's degree in Advancing Computing. 
 
 Please note that this repository is intended for reference purposes only. It is crucial to adhere to the academic integrity policies of your institution and use this repository responsibly.
 
